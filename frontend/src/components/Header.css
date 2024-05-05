@@ -1,0 +1,37 @@
+.header {
+    background-color: #fff;
+}
+.header-logo {
+    height: 36px;
+    margin-right: 25px;
+}
+
+.header-avatar {
+    height: 32px;
+    margin-right: 0.5rem !important;
+}
+
+.header-title {
+    font-weight: 700;
+    color: rgba(31, 31, 31, 1);
+}
+
+.middleNav {
+    margin-right: 20px;
+}
+
+.middleNav a {
+    font-weight: 500;
+    color: rgba(31, 31, 31, 1);
+}
+
+@media screen and (max-width: 768px) {
+    .header-logo {
+        height: 28px;
+        margin-right: 10px;
+    }
+
+    .middleNav {
+        margin-right: 0px;
+    }
+}

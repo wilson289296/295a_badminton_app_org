@@ -1,0 +1,5 @@
+endpoints:
+ - generate recommendations
+    - handle singles
+    - handle doubles
+    - handle mixed
